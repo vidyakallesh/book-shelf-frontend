@@ -6,7 +6,7 @@ export default function Footer() {
     <>
       <div className="main-footer">
         <p>
-          @{new Date().getFullYear()} Harsh-Repository. All rights reserved.
+          @{new Date().getFullYear()} vidya-Repository. All rights reserved.
         </p>
       </div>
     </>
